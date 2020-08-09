@@ -1,0 +1,22 @@
+<html></html>根目录
+<head></head>头部
+<title></title>显示在标签页
+<body></body>内容页
+
+基本骨架
+<html>
+ <head> 
+     <title></title>
+ </head>
+ <body></body>
+</html>
+
+VS code使用
+
+1.新建文件ctrl+n
+2.保存文件ctrl+s 一定要！！！！！
+3.输入（英文）！可以快速生成骨架
+4.ctrl+加号/减号 可以放大缩小视图
+5.快速浏览文件alt+b（需要插件open in broswer）
+
+

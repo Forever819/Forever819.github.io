@@ -1,0 +1,14 @@
+尖括号包围关键词
+<html></html>双标签
+<br />单标签
+
+标签关系
+
+包含:
+<head>
+<title></title>
+</head>
+
+并列:
+<head></head>
+<body></body>
